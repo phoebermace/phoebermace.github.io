@@ -1,7 +1,7 @@
 # Patagotitan Mayorum
 ![Patagotitan mayorum](https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/patagotitan-mef-c.jpg)
 
-The Patagotitan Mayorum, is one species of the Titanosauria, thought to be the largest land animal to have ever roamed the Earth. Living around 100 million years ago in the Patagonia, where current day Argentina is. 
+The **Patagotitan Mayorum**, is one species of the Titanosauria, thought to be the *largest* land animal to have ever roamed the Earth. Living around 100 million years ago in the Patagonia, where current day Argentina is. 
 
 
 ## Discovery
